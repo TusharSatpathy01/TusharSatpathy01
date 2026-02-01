@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Tushar Satpathy
+# Hi 👋, I'm Tushar Satpathy
 
 A passionate Python Developer || want to be a DevOps Engineer<br>
 Email Me 👉 ✉️ tusharsatpathy01@gmail.com For Collaboration/Project or Anything Else. 😊😊
