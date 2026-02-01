@@ -1,5 +1,10 @@
+## 💫 Hi 👋, I'm Tushar Satpathy
+
+A passionate Python Developer || want to be a DevOps Engineer
+Email Me 👉 ✉️ tusharsatpathy01@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Hotel Automation Software<br>👯 I’m looking to collaborate on Hotel Automation Software for backend Spring boot<br>🤝 I’m looking for help with Python fullstack project works<br>🌱 I’m currently learning MongoDB and Docker<br>💬 Ask me about Collaboration, Tech Support<br>📫 How to reach me: tusharsatpathy01@gmail.com<br>⚡ Fun fact: I Love Tech and Tech Love Me
 
 
 ## 🌐 Socials:
