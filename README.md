@@ -6,6 +6,12 @@ Email Me 👉 ✉️ tusharsatpathy01@gmail.com For Collaboration/Project or Any
 ## 💫 About Me:
 🔭 I’m currently working on Hotel Automation Software<br>👯 I’m looking to collaborate on Backend Java and Spring boot<br>🤝 I’m looking for help with Python fullstack project works<br>🌱 I’m currently learning MongoDB and Docker<br>💬 Ask me about Collaboration, Tech Support<br>📫 How to reach me: tusharsatpathy01@gmail.com<br>⚡ Fun fact: I Love Tech and Tech Love Me
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satpathyy._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tushar-satpathy-4bbb09272/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@satpathytushar01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharsatpathy01@gmail.com) 
 
@@ -20,6 +26,9 @@ Email Me 👉 ✉️ tusharsatpathy01@gmail.com For Collaboration/Project or Any
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TusharSatpathy01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TusharSatpathy01&limit=5&theme=transparent&combine_all_yearly_contributions=true)
